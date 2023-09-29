@@ -9,8 +9,8 @@
 팀과 팀원들에 대해 소개하는 페이지.  
 첫 번째 예비 프로젝트.  
 <br>
-main브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project
-dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree/dev
+main브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project <br>
+dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree/dev <br>
 
 ## 👥 멤버
 + 윤인석님 : 프로필 페이지 작성.
