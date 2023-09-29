@@ -5,31 +5,21 @@
 <br>
 
 ## 프로젝트 개요
-
 <br>
 팀과 팀원들에 대해 소개하는 페이지.  
 첫 번째 예비 프로젝트.  
 <br>
+main브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project
+dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree/dev
 
 ## 👥 멤버
-
-<br>
-
 + 윤인석님 : 프로필 페이지 작성.
 + 장지원님 : 프로필페이지 작성.
 + 진유록님 : 메인페이지 작성.
-+ 권준혁 : 문서화작업.  
-
-<br>
- 
++ 권준혁 : 문서화작업.
 ## ⚙개발환경
-
-<br>
-
 + IDE : vscode
 + Database : Firebase
-
-<br>
 
 ## <div align="center">📚STACKS</div>
 
@@ -48,19 +38,10 @@
 <br>
 
 ## 개발기간
-
-<br>
   2023.9.25 ~   
-<br>
-
 ## API스펙
-
-<br>
 [API 스펙](https://docs.google.com/spreadsheets/d/1k2l3MbqPJFivVcGePpICRrktqWwBrLBNlnNhY1a8gd8/edit?usp=sharing)  
-<br>
-
 ## 📔What I Learned 
-
 <br>
 
 
