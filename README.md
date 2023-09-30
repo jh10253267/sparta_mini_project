@@ -1,16 +1,16 @@
 # __😤Sparta_mini_project_Spring_5조__
 내일배움캠프, 팀원 소개페이지
 ## 프로젝트 개요
-팀과 팀원들에 대해 소개하는 페이지.
+팀과 팀원들에 대해 소개하는 페이지.<br>
 첫 번째 예비 프로젝트.  
 <br>
 main브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project <br>
 dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree/dev <br>
 
 ## 👥 멤버
-+ 윤인석님 : 프로필 페이지 작성.
-+ 장지원님 : 프로필페이지 작성.
-+ 진유록님 : 메인페이지 작성.
++ 윤인석님 : 프로필페이지 작성.
++ 장지원님 : 프로필페이지 작성, 데이터베이스와 연동
++ 진유록님 : 메인페이지 작성,프로필 페이지 작성
 + 권준혁 : 문서화작업.
 ## ⚙개발환경
 + IDE : vscode
@@ -36,6 +36,7 @@ dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree
 [HTML5 Standard Layout1](https://www.w3schools.com/html/html_layout.asp)<br>
 [HTML5 Standard Layout2](https://www.developer.com/design/html5-page-layout/)<br>
 [크로스 브라우징](https://pxd-fed-blog.web.app/cross-browsing/)<br>
+[웹 접근성](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 [스크린 리더](https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%A6%B0%20%EB%A6%AC%EB%8D%94)<br>
 [span tag](https://www.w3schools.com/tags/tag_span.asp)<br>
 [div tag](https://www.w3schools.com/tags/tag_div.ASP)<br>
