@@ -2,7 +2,6 @@
 body {
     background-color: white;
 }
-
 a {
     text-decoration: none;
 }
@@ -71,12 +70,23 @@ header .navigator .web-icon {
     display: flex;
     text-align: center;
     background-image: url("/images/title.jpg");
-    background-size: 100% 100%;
+    position: relative;
+    background-size:100% 100%;
     background-repeat: no-repeat;
     height: 500px;
-    border-radius: 10px;
+    border-radius: 6px;
     justify-content: center;
     flex-direction: column;
+}
+.title-section::before {
+    content : "";
+    opacity: 0.3;
+    position: absolute;
+    top: 0px;
+    left : 0px;
+    right : 0px;
+    bottom : 0px;
+    background-color: #000;
 }
 
 .title-section div {
@@ -99,7 +109,7 @@ header .navigator .web-icon {
 .title-section h1,
 .title-section p {
     font-weight:700;
-    /* position: relative; */
+    position: relative;
     color: #F5EEF8;
     margin : 30px;
 }
@@ -121,7 +131,7 @@ section.profile-section {
     justify-content: space-between;
     padding: 2rem;
 
-    border-radius: 5%;
+    border-radius: 5px;
     margin: 2rem 0;
     align-items: center;
 
@@ -166,7 +176,7 @@ figure img {
 .info-content div,
 .info-content #icons {
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
