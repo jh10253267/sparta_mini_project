@@ -32,15 +32,15 @@ dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree
 ## API스펙
 [API 스펙](https://docs.google.com/spreadsheets/d/1k2l3MbqPJFivVcGePpICRrktqWwBrLBNlnNhY1a8gd8/edit?usp=sharing)  
 ## 📔What We Learned
-[HTML5](https://webclub.tistory.com/491)
-[HTML5 Standard Layout1](https://www.w3schools.com/html/html_layout.asp)
-[HTML5 Standard Layout2](https://www.developer.com/design/html5-page-layout/)
-[크로스 브라우징](https://pxd-fed-blog.web.app/cross-browsing/)
-[스크린 리더](https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%A6%B0%20%EB%A6%AC%EB%8D%94)
-[span tag](https://www.w3schools.com/tags/tag_span.asp)
-[div tag](https://www.w3schools.com/tags/tag_div.ASP)
-[Firebase 쿼리 사용법](https://firebase.google.com/docs/firestore/query-data/queries?hl=ko)
-[Github로 협업하기](https://velog.io/@dongvelop/Github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-PR%EB%B6%80%ED%84%B0-merge%EA%B9%8C%EC%A7%80)
+[HTML5](https://webclub.tistory.com/491)<br>
+[HTML5 Standard Layout1](https://www.w3schools.com/html/html_layout.asp)<br>
+[HTML5 Standard Layout2](https://www.developer.com/design/html5-page-layout/)<br>
+[크로스 브라우징](https://pxd-fed-blog.web.app/cross-browsing/)<br>
+[스크린 리더](https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%A6%B0%20%EB%A6%AC%EB%8D%94)<br>
+[span tag](https://www.w3schools.com/tags/tag_span.asp)<br>
+[div tag](https://www.w3schools.com/tags/tag_div.ASP)<br>
+[Firebase 쿼리 사용법](https://firebase.google.com/docs/firestore/query-data/queries?hl=ko)<br>
+[Github로 협업하기](https://velog.io/@dongvelop/Github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-PR%EB%B6%80%ED%84%B0-merge%EA%B9%8C%EC%A7%80)<br>
 <br>
 
 
