@@ -1,12 +1,7 @@
 # __😤Sparta_mini_project_Spring_5조__
-     
-<br>
 내일배움캠프, 팀원 소개페이지
-<br>
-
 ## 프로젝트 개요
-<br>
-팀과 팀원들에 대해 소개하는 페이지.  
+팀과 팀원들에 대해 소개하는 페이지.
 첫 번째 예비 프로젝트.  
 <br>
 main브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project <br>
@@ -22,9 +17,6 @@ dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree
 + Database : Firebase
 
 ## <div align="center">📚STACKS</div>
-
-<br>
-
 <div align="center">
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -35,13 +27,20 @@ dev브랜치 바로가기 https://github.com/jh10253267/sparta_mini_project/tree
   <br>
 </div>
 
-<br>
-
 ## 개발기간
   2023.9.25 ~   
 ## API스펙
 [API 스펙](https://docs.google.com/spreadsheets/d/1k2l3MbqPJFivVcGePpICRrktqWwBrLBNlnNhY1a8gd8/edit?usp=sharing)  
-## 📔What I Learned 
+## 📔What We Learned
+[HTML5](https://webclub.tistory.com/491)
+[HTML5 Standard Layout1](https://www.w3schools.com/html/html_layout.asp)
+[HTML5 Standard Layout2](https://www.developer.com/design/html5-page-layout/)
+[크로스 브라우징](https://pxd-fed-blog.web.app/cross-browsing/)
+[스크린 리더](https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%A6%B0%20%EB%A6%AC%EB%8D%94)
+[span tag](https://www.w3schools.com/tags/tag_span.asp)
+[div tag](https://www.w3schools.com/tags/tag_div.ASP)
+[Firebase 쿼리 사용법](https://firebase.google.com/docs/firestore/query-data/queries?hl=ko)
+[Github로 협업하기](https://velog.io/@dongvelop/Github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-PR%EB%B6%80%ED%84%B0-merge%EA%B9%8C%EC%A7%80)
 <br>
 
 
