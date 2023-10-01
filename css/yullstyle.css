@@ -46,8 +46,10 @@ header .navigator ul.nav-group li.nav-list a.nav-btn:hover {
 header .navigator .web-name {
     /* margin: 0; */
     font-size: 35px;
-    margin-left: 8px;
     color: #F27D0C;
+}
+header .navigator h1 {
+    margin-left: 8px;
 }
 
 header .navigator .web-name a,
@@ -57,10 +59,13 @@ header .navigator .web-name a,
 
 
 header .navigator .web-icon {
-    width: 32px;
-    height: 32px;
-    margin-right: 8px;
-    vertical-align: middle;
+    display : inline-block;
+    background-image: url('/icons/logo.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width : 35px;
+    height: 35px;
+    
 }
 
 /* header */
@@ -138,7 +143,7 @@ section.profile-section {
 }
 
 .profile-section-line {
-    border-left: thick solid oldlace;
+    border-left: 2px solid silver;
     height: 430px;
     margin-left: 20px;
     margin-right: 20px;
