@@ -93,21 +93,7 @@
             <div class="page-middle-line"><span>My Favorite Things</span></div>
 
             <div class="images">
-                <div>
-                    <img src="/images/bike.JPG" />
-                </div>
-                <div>
-                    <img src="/images/sea.JPG" />
-                </div>
-                <div>
-                    <img src="/images/pet.png" />
-                </div>
-                <div>
-                    <img src="/images/lego.JPG" />
-                </div>
-                <div>
-                    <img src="/images/metamong.jpeg" />
-                </div>
+                
             </div>
         </div>
 
@@ -136,21 +122,17 @@
                 <div class="content-each"> <span class="content-subtitle">성격 :&nbsp;</span><span
                         id="personality">{{personality}}</span></div>
                 <div class="content-each"> <span class="content-subtitle">협업 스타일 :&nbsp;</span><span id="type">{{type}}</span></div>
-                <div class="content-each"><img src="/icons/git.png" alt="GitHub" class="icon">Github : <a
+                
+                <div class="content-each"><img src="{{blogLogoImageUrl}}" alt="GitHub" class="icon">Github : <a
                         href="https://github.com/jinyr1128" target="_blank">https://github.com/jinyr1128</a>
                 </div>
-                <div class="content-each"><img src="/icons/velog.png" alt="vleog" class="icon">vleog :&nbsp;<a
-                        href="https://velog.io/@jinyr1128" target="_blank">https://velog.io/@jinyr1128</a></div>
-                <div class="content-each"><img src="/icons/insta.svg" alt="instagram" class="icon">instagram : <a
-                        href="https://instagram.com/yulgiii_1128_?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">Yurok</a>
-                </div>
+                
                 <div id="icons" class="content-each">
                     <h4><span class="content-subtitle">취미 :&nbsp;</span> </h4>
                     <div id="hobby">
-                        <img src="/icons/hobby.png" />
-                        <img src="/icons/listening.png" />
-                        <img src="/icons/movie.png" />
-                        <img src="/icons/psgame.png" />
+                        {{#each hobbyImageUrl}}
+                        <img src="{{this}}" />
+                        {{/each}}
                     </div>
 
                 </div>
@@ -162,7 +144,13 @@
                 <div id="mbti-text"><span>MBTI</span></div>
                 <img src="/images/MBTI.png" id="mbti-image" />
             </div>
-
+    </script>
+    <script type="my-template" id="favorite">
+        {{#each favoriteImageUrl}}
+        <div>
+            <img src="{{this}}"/>
+        </div>
+        {{/each}}
     </script>
 
 </body>
