@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
 
   let data = {
-    "name": "crong",
+    "name": "진유록",
     "imageUrl": "/images/profile.jpg",
     "advantage": "끈기",
     "personality": "좋음",
@@ -33,5 +33,24 @@ function makeTemplate(data) {
   let imageHtml = bindTemplate02(data);
   let images = document.querySelector(".images");
   images.innerHTML = imageHtml;
+}
+
+function MakeTemplate(data, template, target) {
+  this.data = data;
+  this.template = template;
+  this.target = target;
 
 }
+
+MakeTemplate.prototype = function() {
+  templateSection = function() {
+    let bindTemplate = Handlebars.compile(this.template.innerText);
+    target.innerHtml  = bindTemplate(this.data);
+  }
+
+}
+
+// function ParseUrl(url) {
+//   const searchParams = new URLSearchParams(window.location.search);
+// }
+
